@@ -38063,13 +38063,13 @@ A.Hb.prototype={
 X(a){var s=null,r=t.w,q=t.af
 return A.a_X(B.cP,A.a([new A.Ah(A.a(["http://langyage.net/resources/background1.webp","http://langyage.net/resources/background2.webp","http://langyage.net/resources/background3.webp","http://langyage.net/resources/background4.webp","http://langyage.net/resources/background5.webp","http://langyage.net/resources/background6.webp","http://langyage.net/resources/background7.webp","http://langyage.net/resources/background8.webp","http://langyage.net/resources/background9.webp"],t.s),s),A.afn(A.a([A.lv(B.ay,A.Tf(s,A.aaE("\u7405\n\u740a\n\u5c0f\n\u8bf4",A.ky(s,s,B.DK,s,B.f,s,s,s,s,s,s,A.da(a,s,r).w.a.a*0.03*0.5+A.da(a,s,r).w.a.b*0.03*0.5,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),!1,s,s,s,s,s,s,s,s,s,new A.a2S(this),s,s,s),s,s,s,s,s),A.lv(B.ay,A.Tf(s,A.aaE("\u7405\n\u740a\n\u6f2b\n\u753b",A.ky(s,s,B.DL,s,B.f,s,s,s,s,s,s,A.da(a,s,r).w.a.a*0.03*0.5+A.da(a,s,r).w.a.b*0.03*0.5,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),!1,s,s,s,s,s,s,s,s,s,new A.a2T(this),s,s,s),s,s,s,s,s),A.lv(B.ay,A.Tf(s,A.aaE("\u7405\n\u740a\n\u89c6\n\u9891",A.ky(s,s,B.DJ,s,B.f,s,s,s,s,s,s,A.da(a,s,r).w.a.a*0.03*0.5+A.da(a,s,r).w.a.b*0.03*0.5,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),!1,s,s,s,s,s,s,s,s,s,new A.a2U(this),s,s,s),s,s,s,s,s)],q),B.j1,B.Dm,B.oK)],q),B.HD)}}
 A.a2S.prototype={
-$0(){A.NK(A.di("http://langyage.net/novel",0,null))},
+$0(){A.NK(A.di("https://novel.langyage.net",0,null))},
 $S:0}
 A.a2T.prototype={
-$0(){A.NK(A.di("http://langyage.net/comic",0,null))},
+$0(){A.NK(A.di("https://comic.langyage.net",0,null))},
 $S:0}
 A.a2U.prototype={
-$0(){A.NK(A.di("http://langyage.net/video",0,null))},
+$0(){A.NK(A.di("https://video.langyage.net",0,null))},
 $S:0}
 A.Cp.prototype={
 X(a){return B.DM}}
