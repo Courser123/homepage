@@ -66889,7 +66889,7 @@ A.Hn.prototype={
 K(a){return A.d8(A.ec(A.a([B.i6,A.ef(A.acY(new A.a3I(),9,B.V),1)],t.p),B.X,B.M,B.E),500,null)}}
 A.a3I.prototype={
 $2(a,b){var s=null
-return A.bw(s,A.lY(B.bD,A.od(B.dg,450,"https://resources.langyage.net/background/background"+(b+1)+".webp",253.125)),s,s,s,B.fo,s,s)},
+return A.bw(s,A.lY(B.bD,A.od(B.dg,450,"https://resources.langyage.net/video/preview"+(b+1)+".png",253.125)),s,s,s,B.fo,s,s)},
 $S:76}
 A.F8.prototype={
 tn(a,b,c){return this.a4o(a,b,c)},
